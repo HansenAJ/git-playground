@@ -1,1 +1,2 @@
-This is my foo file
+This is my foo file.
+Updated foo.
